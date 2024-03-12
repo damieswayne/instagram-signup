@@ -8,28 +8,28 @@ function Timeline() {
     {
       user: "sarveshyadav",
       postImage:
-        "https://drive.google.com/file/d/12LoknvlJwuQ_UjHRatIuWTOcoSfO82ts/view?usp=sharing",
+        "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
       likes: 54,
       timestamp: "2d",
     },
     {
       user: "swayamverma",
       postImage:
-        "https://drive.google.com/drive/folders/11iMRqeeg56p4cbTfv-XbIXSkvUowt-8s?usp=sharing",
+        "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
       likes: 432,
       timestamp: "2d",
     },
     {
       user: "justinfernandes",
       postImage:
-      "https://drive.google.com/file/d/12W5krvRMOnf5WrYOiz9m9lQsFvcX5I2V/view?usp=sharing",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       likes: 140,
       timestamp: "2d",
     },
     {
       user: "dnyandeepgaonkar",
       postImage:
-        "https://drive.google.com/file/d/12KU2nmssWGBB4Y0t5-0hfdgKP8e8guqi/view?usp=sharing",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCAaQ5u1TMTij5ELPWi5-VPtlSqELw-R6lj0EpYmNcGt56kOQaCokzS0IK81MOSphlkw&usqp=CAU",
       likes: 14,
       timestamp: "2d",
     },
